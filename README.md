@@ -1,4 +1,4 @@
 # CSS-Grid
 :point_right: Practica con css grid
 
-!["vista previa"]("view.PNG")
+!["vista previa"]("https://github.com/vicktordlaluzz/cssgrid/blob/master/view.PNG")
